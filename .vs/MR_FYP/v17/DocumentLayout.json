@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\FYP\\MR_FYP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\enermydetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\enermydetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\script\\scencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EnermyDetector.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\EnermyDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\EnermyDetector.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\EnermyDetector.cs",
+              "RelativeToolTip": "Assets\\EnermyDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T10:08:21.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ScenceManager.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\ScenceManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScenceManager.cs",
