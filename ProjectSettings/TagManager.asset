@@ -4,13 +4,12 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enermy
-  - Sheild
+  - Ring
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Overlay UI
   - Water
   - UI
   - 

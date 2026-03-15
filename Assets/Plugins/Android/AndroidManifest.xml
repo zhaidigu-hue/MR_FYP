@@ -14,6 +14,8 @@
     <meta-data android:name="com.oculus.telemetry.project_guid" android:value="241488ad-1d93-4913-8261-41e09bb8c4a1" />
     <meta-data android:name="com.oculus.supportedDevices" android:value="quest|quest2|questpro|quest3|quest3s" />
   </application>
+	<uses-permission android:name="com.oculus.permission.USE_SCENE" />
   <uses-feature android:name="android.hardware.vr.headtracking" android:version="1" android:required="true" />
+	<uses-feature android:name="com.oculus.feature.SCENE" android:required="true" />
   <horizonos:uses-horizonos-sdk horizonos:minSdkVersion="60" horizonos:targetSdkVersion="85" />
 </manifest>

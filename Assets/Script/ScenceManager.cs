@@ -8,5 +8,9 @@ public class ScenceManager : MonoBehaviour
     {
         SceneManager.LoadScene("TowerTest");
     }
+    public void BackToTitle()
+    {
+        SceneManager.LoadScene("MRTest");
+    }
     
 }
