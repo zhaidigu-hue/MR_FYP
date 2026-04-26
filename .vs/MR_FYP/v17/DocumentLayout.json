@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "D:\\FYP\\MR_FYP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\script\\scencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\script\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\script\\interractionstartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interractionstartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\spawnringperfurniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawnringperfurniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\scencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\script\\attachuitohandfacingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\attachuitohandfacingcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\script\\ringcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ringcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\lightring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\ringspawncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ringspawncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\initializeinroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\initializeinroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\ringcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ringcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\constraintoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\constraintoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\initializeinroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\initializeinroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\simplefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\simplefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FYP\\MR_FYP\\Assets\\Script\\HandGrabGestureUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\HandGrabGestureUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FYP\\MR_FYP\\Assets\\Script\\NavigableAgent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Script\\NavigableAgent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,45 +55,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScenceManager.cs",
-              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\ScenceManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\ScenceManager.cs",
-              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\ScenceManager.cs",
-              "RelativeToolTip": "Assets\\Script\\ScenceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAFAAAAAAAAAA==",
+              "Title": "TransitionManager.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\TransitionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TransitionManager.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\TransitionManager.cs",
+              "RelativeToolTip": "Assets\\Script\\TransitionManager.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAB8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:43:33.489Z",
+              "WhenOpened": "2026-04-26T10:58:00.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AttachUIToHandFacingCamera.cs",
-              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\AttachUIToHandFacingCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\AttachUIToHandFacingCamera.cs",
-              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\AttachUIToHandFacingCamera.cs",
-              "RelativeToolTip": "Assets\\Script\\AttachUIToHandFacingCamera.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAYwE8AAABVAAAAAAAAAA==",
+              "Title": "InterractionStartUI.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\InterractionStartUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\InterractionStartUI.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\InterractionStartUI.cs",
+              "RelativeToolTip": "Assets\\Script\\InterractionStartUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T09:08:27.778Z",
+              "WhenOpened": "2026-04-26T10:39:25.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "SpawnRingPerFurniture.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\SpawnRingPerFurniture.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SpawnRingPerFurniture.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\SpawnRingPerFurniture.cs",
+              "RelativeToolTip": "Assets\\Script\\SpawnRingPerFurniture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:59:29.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LightRing.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\LightRing.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LightRing.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\LightRing.cs",
+              "RelativeToolTip": "Assets\\Script\\LightRing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T07:58:09.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScenceManager.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\ScenceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScenceManager.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\ScenceManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ScenceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T09:43:33.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "RingCollector.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\RingCollector.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\RingCollector.cs",
               "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\RingCollector.cs",
               "RelativeToolTip": "Assets\\Script\\RingCollector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T12:30:36.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T12:30:36.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ConstrainToRoom.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\ConstrainToRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ConstrainToRoom.cs",
@@ -101,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "InitializeInRoom.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\InitializeInRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InitializeInRoom.cs",
@@ -113,19 +152,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RingSpawnController.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\RingSpawnController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\RingSpawnController.cs",
               "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\RingSpawnController.cs",
               "RelativeToolTip": "Assets\\Script\\RingSpawnController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T10:23:14.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SimpleFollow.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\SimpleFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SimpleFollow.cs",
@@ -134,31 +173,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T14:49:47.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "HandGrabGestureUI.cs",
-              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\HandGrabGestureUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\HandGrabGestureUI.cs",
-              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\HandGrabGestureUI.cs",
-              "RelativeToolTip": "Assets\\Script\\HandGrabGestureUI.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T09:38:54.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NavigableAgent.cs",
-              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\NavigableAgent.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\NavigableAgent.cs",
-              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\NavigableAgent.cs",
-              "RelativeToolTip": "Assets\\Script\\NavigableAgent.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T07:18:17.384Z",
-              "EditorCaption": ""
             }
           ]
         }
