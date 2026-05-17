@@ -251,13 +251,14 @@ GameObject:
   - component: {fileID: 44905906}
   - component: {fileID: 44905905}
   - component: {fileID: 44905904}
-  m_Layer: 5
+  - component: {fileID: 44905908}
+  m_Layer: 3
   m_Name: Canvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &44905904
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -342,6 +343,34 @@ RectTransform:
   m_AnchoredPosition: {x: -0.109, y: 2.092}
   m_SizeDelta: {x: 5, y: 5}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &44905908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 44905903}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee10491ef6d5d1d49a270cf6b09bdc19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _mipmapMode: 0
+  _dynamicResolution: 1
+  _redrawResolutionThreshold: 2147483647
+  rectTransform: {fileID: 44905907}
+  maxTextureSize: 2048
+  manualRedraw: 0
+  renderInterval: 1
+  renderIntervalFrameOffset: 0
+  superSample: 0
+  layer: 5
+  opacity: 2
+  shape: 0
+  curveRadius: 1
+  overlapMask: 0
+  compositionMode: 1
+  _overlayEnabled: 1
 --- !u!1001 &99999339
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -632,7 +661,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 397797035}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: StartPanle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -791,7 +820,7 @@ GameObject:
   - component: {fileID: 696296728}
   - component: {fileID: 696296730}
   - component: {fileID: 696296729}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1459,7 +1488,7 @@ GameObject:
   - component: {fileID: 1783095286}
   - component: {fileID: 1783095285}
   - component: {fileID: 1783095284}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: StartButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}

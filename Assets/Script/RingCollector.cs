@@ -1,61 +1,133 @@
+using Meta.XR.MRUtilityKit;
 using UnityEngine;
-using UnityEngine.Events; // 用于 UnityEvent
+using UnityEngine.Events;
 
 public class RingCollector : MonoBehaviour
 {
-    [Header("计数")]
-    public int ringsCollected = 0;          // 当前收集的光环数量
-    public int totalRings = 5;               // 场景中总光环数（可手动设置，或动态获取）
+    public int ringsCollected { get; private set; }
+    [SerializeField]
+    public int totalRings = 10;  // 添加 totalRings 字段，默认值可修改
+    public int CollectedRings { get; private set; }
+    public float TimeLimmit = 100f;//假设100秒
+    public float remainingTime;
+    private bool isGameActive = false;
 
-    [Header("事件")]
-    public UnityEvent onRingCollected;       // 每当收集到一个光环时触发（可挂载音效、特效等）
-    public UnityEvent onAllRingsCollected;   // 当收集完所有光环时触发
-    // 用于动态获取总光环数（可选）
+    public EndGameManager EndGameManager;
+
+   
+
+    [Header("Event")]
+    public UnityEvent onRingCollected;
+    public UnityEvent onTimeOut;
+    public UnityEvent onVictory;
+
+    private float startTime;
+    private LeftHandUIManager LeftHandUIManager;
+    private bool victoryByItem=false;
+
     private void Start()
     {
-        // 如果totalRings为0，尝试自动计算场景中Tag为"Ring"的对象数量
+        remainingTime = TimeLimmit;
+        LeftHandUIManager = FindObjectOfType<LeftHandUIManager>();
+        if (LeftHandUIManager == null)
+        {
+            Debug.LogError("未找到 LeftHandUIManager 组件！UI 将无法更新。");
+            return;
+        }
+    }
+
+    public void ReduceRequiredHoops(int amount)
+    {
+        totalRings = Mathf.Max(1, totalRings - amount);
+    }
+
+    public void IncreaseRemainingTime(float extraSeconds)
+    {
+        if (!isGameActive) return;
+        remainingTime += extraSeconds;
+        Debug.Log($"剩余时间增加 {extraSeconds} 秒，当前剩余 {remainingTime:F1} 秒");
+    }
+
+    public void InstantVictory()
+    {
+       
+        if (!isGameActive) return;
+        victoryByItem=true;
+        OnVictory();
+        Debug.Log("直接胜利！");
+        // 可调用一个公共方法显示胜利界面
+    }
+    public void GetTotalRings()
+    {
         if (totalRings == 0)
         {
-            totalRings = GameObject.FindGameObjectsWithTag("Ring").Length;
-            Debug.Log($"自动检测到 {totalRings} 个光环");
+            totalRings = GameObject.FindGameObjectsWithTag("Ring").Length/2;
+            Debug.Log($"total:{totalRings}");
+            LeftHandUIManager.OnRingCollectedCallback();
+            isGameActive = true;
         }
     }
-
     private void OnTriggerEnter(Collider other)
     {
-        // 检查碰撞对象是否有"Ring"标签
-        if (other.CompareTag("Ring"))
+        if (!isGameActive) { return; }
+        if (other.tag == "Ring")
         {
-            CollectRing(other.gameObject);
-        }
-    }
+            LightRing ring = other.GetComponent<LightRing>();
+            
+            other.gameObject.SetActive(false);
+            onRingCollected?.Invoke();
+            CollectedRings++;
 
-    // 收集逻辑，抽出为单独方法便于扩展
-    private void CollectRing(GameObject ringObject)
+        }
+       
+    }
+    public void Update()
     {
-        // 1. 光环消失（禁用，而不是销毁，方便后续重置）
-        ringObject.SetActive(false);
-
-        // 2. 增加计数
-        ringsCollected++;
-        Debug.Log($"收集光环 {ringsCollected}/{totalRings}");
-
-        // 3. 触发自定义事件（可在Inspector中绑定特效、音效等）
-        onRingCollected?.Invoke();
-
-        // 4. 检查是否收集完所有光环
-        if (ringsCollected >= totalRings)
+        if (isGameActive)
         {
-            Debug.Log("所有光环收集完毕！");
-            onAllRingsCollected?.Invoke();
+            if (remainingTime > 0)
+            {
+                remainingTime -= Time.deltaTime;
+                if (remainingTime <= 0)
+                {
+                    remainingTime = 0;
+                    OnTimeOut();
+                }
+                if (totalRings <= CollectedRings)
+                {
+                    //ShowVictorUI
+                    OnVictory();
+                }
+            }
+            else { return; }
+
         }
     }
+    private void OnTimeOut()
+    {
+        if (!isGameActive) return;
+        isGameActive = false;
+        EndGameManager?.Show(EndGameManager.EndType.FailureTimeout);
 
-    // 可选：提供一个公共方法用于重置（例如重新开始游戏时）
+        onTimeOut?.Invoke();
+        Debug.Log("倒计时结束，游戏失败！");
+    }
+    private void OnVictory()
+    {
+        if (!isGameActive) return;
+        isGameActive = false;
+
+        if (victoryByItem)   // 需新增 bool victoryByItem，默认 false
+            EndGameManager?.Show(EndGameManager.EndType.VictoryByItem);
+        else
+            EndGameManager?.Show(EndGameManager.EndType.VictoryByHoops);
+        onVictory?.Invoke();
+        Debug.Log("游戏胜利！");
+    }
+
     public void ResetRings()
     {
         ringsCollected = 0;
-        // 如果需要重新激活所有光环，可以遍历并SetActive(true)
         GameObject[] rings = GameObject.FindGameObjectsWithTag("Ring");
         foreach (GameObject ring in rings)
         {

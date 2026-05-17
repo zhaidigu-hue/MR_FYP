@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ring
   - StartButton
+  - Hands
   layers:
   - Default
   - TransparentFX
@@ -38,7 +39,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - OVROverlayCanvas Rendering
   m_SortingLayers:
   - name: Default
     uniqueID: 0

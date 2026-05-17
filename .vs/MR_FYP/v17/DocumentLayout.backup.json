@@ -3,40 +3,72 @@
   "WorkspaceRootPath": "D:\\FYP\\MR_FYP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\script\\interractionstartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interractionstartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\script\\pickupui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pickupui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\spawnringperfurniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawnringperfurniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\scencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\lightring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\ringspawncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ringspawncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|d:\\fyp\\mr_fyp\\assets\\script\\pickeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pickeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\ringcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\ringcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\lefthanduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lefthanduimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\passthroughdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\passthroughdebug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FYP\\MR_FYP\\Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Editor\\PassthroughCameraAccessProjectSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Editor\\PassthroughCameraAccessProjectSetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\FYP\\MR_FYP\\Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Core\\Scripts\\MRUK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Core\\Scripts\\MRUK.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\transitionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\scencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\playerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\itemspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\itemspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\spawnringperfurniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawnringperfurniture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\lightring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lightring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\constraintoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\constraintoroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\initializeinroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\initializeinroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\simplefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\simplefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\interractionstartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interractionstartui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|D:\\FYP\\MR_FYP\\assets\\script\\initializeinroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ABA475-4F8F-5D16-F21E-F2498F65F0A6}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\initializeinroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,6 +83,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PickUPUI.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\PickUPUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PickUPUI.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\PickUPUI.cs",
+              "RelativeToolTip": "Assets\\Script\\PickUPUI.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T14:23:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeftHandUIManager.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\LeftHandUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LeftHandUIManager.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\LeftHandUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\LeftHandUIManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T13:10:53.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PassthroughDebug.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\PassthroughDebug.cs",
+              "RelativeDocumentMoniker": "Assets\\PassthroughDebug.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\PassthroughDebug.cs",
+              "RelativeToolTip": "Assets\\PassthroughDebug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:44:56.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PassthroughCameraAccessProjectSetup.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Editor\\PassthroughCameraAccessProjectSetup.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Editor\\PassthroughCameraAccessProjectSetup.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Editor\\PassthroughCameraAccessProjectSetup.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Editor\\PassthroughCameraAccessProjectSetup.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:43:30.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MRUK.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Core\\Scripts\\MRUK.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Core\\Scripts\\MRUK.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Core\\Scripts\\MRUK.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.meta.xr.mrutilitykit@85.0.0\\Core\\Scripts\\MRUK.cs",
+              "ViewState": "AgIAAKcBAAAAAAAAAAAowLsBAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T14:34:44.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PickEffect.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\PickEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PickEffect.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\PickEffect.cs",
+              "RelativeToolTip": "Assets\\Script\\PickEffect.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwCkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T10:10:59.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerDetector.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\PlayerDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PlayerDetector.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\PlayerDetector.cs",
+              "RelativeToolTip": "Assets\\Script\\PlayerDetector.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T10:05:50.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemSpawner.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\ItemSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ItemSpawner.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\ItemSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\ItemSpawner.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswEkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:59:46.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransitionManager.cs",
+              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\TransitionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TransitionManager.cs",
+              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\TransitionManager.cs",
+              "RelativeToolTip": "Assets\\Script\\TransitionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T10:58:00.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "InterractionStartUI.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\InterractionStartUI.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InterractionStartUI.cs",
@@ -58,60 +202,59 @@
               "RelativeToolTip": "Assets\\Script\\InterractionStartUI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-26T10:39:25.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-26T10:39:25.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "SpawnRingPerFurniture.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\SpawnRingPerFurniture.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SpawnRingPerFurniture.cs",
               "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\SpawnRingPerFurniture.cs",
               "RelativeToolTip": "Assets\\Script\\SpawnRingPerFurniture.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T07:59:29.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "LightRing.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\LightRing.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\LightRing.cs",
               "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\LightRing.cs",
               "RelativeToolTip": "Assets\\Script\\LightRing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T07:58:09.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "ScenceManager.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\ScenceManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ScenceManager.cs",
               "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\ScenceManager.cs",
               "RelativeToolTip": "Assets\\Script\\ScenceManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T09:43:33.489Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "RingCollector.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\RingCollector.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\RingCollector.cs",
               "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\RingCollector.cs",
               "RelativeToolTip": "Assets\\Script\\RingCollector.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwBwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T12:30:36.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ConstrainToRoom.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\ConstrainToRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ConstrainToRoom.cs",
@@ -123,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "InitializeInRoom.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\InitializeInRoom.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InitializeInRoom.cs",
@@ -135,25 +278,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RingSpawnController.cs",
-              "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\RingSpawnController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\RingSpawnController.cs",
-              "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\RingSpawnController.cs",
-              "RelativeToolTip": "Assets\\Script\\RingSpawnController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T10:23:14.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "SimpleFollow.cs",
               "DocumentMoniker": "D:\\FYP\\MR_FYP\\Assets\\Script\\SimpleFollow.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\SimpleFollow.cs",
               "ToolTip": "D:\\FYP\\MR_FYP\\Assets\\Script\\SimpleFollow.cs",
               "RelativeToolTip": "Assets\\Script\\SimpleFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-08T14:49:47.443Z"
             }

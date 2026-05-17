@@ -31,15 +31,10 @@ public class TransitionManager : MonoBehaviour
             DontDestroyOnLoad(gameObject);
             // 确保UI元素一开始是完全透明的
         }
-        else
-        {
-            Destroy(gameObject);
-        }
+      
     }
 
-    /// <summary>
-    /// 开始转场流程，由香炉交互脚本调用
-    /// </summary>
+   
     public void StartTransition()
     {
         if (!isTransitioning)
@@ -68,9 +63,6 @@ public class TransitionManager : MonoBehaviour
 
   
 
-    /// <summary>
-    /// 异步加载场景，期间保持黑屏直到加载完成
-    /// </summary>
     private IEnumerator LoadSceneAsync()
     {
         AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(targetSceneName);
@@ -82,17 +74,12 @@ public class TransitionManager : MonoBehaviour
             yield return null;
         }
 
-        // 可在此处增加最小等待时间，以避免加载过快导致视觉跳跃 (可选)
-        // yield return new WaitForSeconds(0.5f);
-
-        // 激活新场景
+       
         asyncLoad.allowSceneActivation = true;
 
-        // 等待场景激活完成，确保新场景的物体已经初始化（特别是新的Camera和系统）
-        // 方式一：等待一个短暂时间（简易且可靠）
+       
         yield return new WaitForSeconds(0.2f);
-        // 方式二：等待场景激活（更严谨但需额外逻辑，此处不做强制）
-        // while (!asyncLoad.isDone) yield return null;
+        
     }
 
    

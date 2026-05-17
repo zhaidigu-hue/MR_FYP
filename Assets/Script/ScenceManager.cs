@@ -6,7 +6,7 @@ public class ScenceManager : MonoBehaviour
 {
    public void ChangeToStartScence()
     {
-        SceneManager.LoadScene("TowerTest");
+        SceneManager.LoadScene("PlayTest");
     }
     public void BackToTitle()
     {
